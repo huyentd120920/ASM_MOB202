@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/khoanthu"
+            android:title="Khoản Thu" >
+        </item>
+    <item
+        android:id="@+id/khoanchi"
+        android:title="Khoản Chi" >
+    </item>
+    <item
+        android:id="@+id/thongke"
+        android:title="Thống Kê" >
+    </item>
+    <item
+        android:id="@+id/gioithieu"
+        android:title="Giới thiệu" >
+    </item>
+    <item
+        android:id="@+id/thoat"
+        android:title="Thoát" >
+    </item>
+</menu>
